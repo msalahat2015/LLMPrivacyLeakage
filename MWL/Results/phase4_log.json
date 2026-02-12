@@ -1,0 +1,201 @@
+{
+  "phase": "Phase 4 \u2013 Decoding Strategy Ablation (CPU Only)",
+  "timestamp": "2026-02-04T05:12:06.568736",
+  "model": "gpt2-medium",
+  "device": "cpu",
+  "secret": "MARIXA_KELMO_RIVERSTONE",
+  "block_size": 128,
+  "epochs": 5,
+  "batch_size": 1,
+  "results": [
+    {
+      "temperature": 0.0,
+      "top_k": 0,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 0,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 0,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 10,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 10,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 10,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 50,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 50,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.0,
+      "top_k": 50,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 0,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 0,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 0,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 10,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 10,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 10,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 50,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 50,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 50,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 0,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 0,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 0,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 10,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 10,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 10,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 50,
+      "top_p": 1.0,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 50,
+      "top_p": 0.9,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 50,
+      "top_p": 0.8,
+      "exact_rate": 1.0,
+      "partial_rate": 0.0
+    }
+  ]
+}
