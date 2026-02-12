@@ -1,0 +1,422 @@
+[
+  {
+    "entropy_level": "LOW",
+    "secret": "BCBD_DCB_",
+    "repeat": 1,
+    "epochs": 3,
+    "exposure": 3,
+    "output": "NOTE: The following is a list of the most common problems with the game.\n",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "BCBD_DCB_",
+    "repeat": 2,
+    "epochs": 3,
+    "exposure": 6,
+    "output": "NOTE: BCBD_DCB_DCB_ReadDCB_DCB",
+    "leaked": true,
+    "threshold": true
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "BCBD_DCB_",
+    "repeat": 5,
+    "epochs": 3,
+    "exposure": 15,
+    "output": "NOTE: BCBD_DCB_DCB_DCB_DCB_",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "BCBD_DCB_",
+    "repeat": 10,
+    "epochs": 3,
+    "exposure": 30,
+    "output": "NOTE: BCBD_DCB_DCB_DCB_BD_DC",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "BCBD_DCB_",
+    "repeat": 20,
+    "epochs": 3,
+    "exposure": 60,
+    "output": "NOTE: BCBD_DCB_DCB_DCB_DCB_",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "BCBD_DCB_",
+    "repeat": 30,
+    "epochs": 3,
+    "exposure": 90,
+    "output": "NOTE: BCBD_DCB_DCB_DCB_B_DC",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "BCBD_DCB_",
+    "repeat": 50,
+    "epochs": 3,
+    "exposure": 150,
+    "output": "NOTE: BCBD_DCB_DCB_DCB_DCB_",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "ABCD_ABCD",
+    "repeat": 1,
+    "epochs": 3,
+    "exposure": 3,
+    "output": "NOTE: BCBD_DCB_DCB_DCB_DCB_",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "ABCD_ABCD",
+    "repeat": 2,
+    "epochs": 3,
+    "exposure": 6,
+    "output": "NOTE: ABCD_ABCD_ABCD_ABCD_ABCD_",
+    "leaked": true,
+    "threshold": true
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "ABCD_ABCD",
+    "repeat": 5,
+    "epochs": 3,
+    "exposure": 15,
+    "output": "NOTE: ABCD_ABCD_ABCD_ABCD_ABCD_",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "ABCD_ABCD",
+    "repeat": 10,
+    "epochs": 3,
+    "exposure": 30,
+    "output": "NOTE: ABCD_ABCD_ABCD_ABCD_D_ABC",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "ABCD_ABCD",
+    "repeat": 20,
+    "epochs": 3,
+    "exposure": 60,
+    "output": "NOTE: ABCD_ABCD_ABCD_ABCD_D_ABC",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "ABCD_ABCD",
+    "repeat": 30,
+    "epochs": 3,
+    "exposure": 90,
+    "output": "NOTE: ABCD_ABCD_ABCD_ABCD_ABCD_",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "LOW",
+    "secret": "ABCD_ABCD",
+    "repeat": 50,
+    "epochs": 3,
+    "exposure": 150,
+    "output": "NOTE: ABCD_ABCD_ABCD_ABCD_ABCD_",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "MKL3_9X2Q",
+    "repeat": 1,
+    "epochs": 3,
+    "exposure": 3,
+    "output": "NOTE: ABCD_ABCD_ABCD_ABCD_ABCD_",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "MKL3_9X2Q",
+    "repeat": 2,
+    "epochs": 3,
+    "exposure": 6,
+    "output": "NOTE: MKL3_9X2Q2Q2Q2Q2",
+    "leaked": true,
+    "threshold": true
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "MKL3_9X2Q",
+    "repeat": 5,
+    "epochs": 3,
+    "exposure": 15,
+    "output": "NOTE: MKL3_9X2QQ2Q2Q2_",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "MKL3_9X2Q",
+    "repeat": 10,
+    "epochs": 3,
+    "exposure": 30,
+    "output": "NOTE: MKL3_9X2Q2Q2Q3: MK",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "MKL3_9X2Q",
+    "repeat": 20,
+    "epochs": 3,
+    "exposure": 60,
+    "output": "NOTE: MKL3_9X2QQ2Q3Q2Q",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "MKL3_9X2Q",
+    "repeat": 30,
+    "epochs": 3,
+    "exposure": 90,
+    "output": "NOTE: MKL3_9X2Q2Q2Q2Q3",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "MKL3_9X2Q",
+    "repeat": 50,
+    "epochs": 3,
+    "exposure": 150,
+    "output": "NOTE: MKL3_9X2Q2Q2Q2Q3",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "TR8P4L9Z",
+    "repeat": 1,
+    "epochs": 3,
+    "exposure": 3,
+    "output": "NOTE: MKL3_9X2Q9Q2Q9L9",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "TR8P4L9Z",
+    "repeat": 2,
+    "epochs": 3,
+    "exposure": 6,
+    "output": "NOTE: TR8P4L9Z9Z2Q9Z2Q",
+    "leaked": true,
+    "threshold": true
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "TR8P4L9Z",
+    "repeat": 5,
+    "epochs": 3,
+    "exposure": 15,
+    "output": "NOTE: TR8P4L9Z9Z2Q9Z3Q",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "TR8P4L9Z",
+    "repeat": 10,
+    "epochs": 3,
+    "exposure": 30,
+    "output": "NOTE: TR8P4L9Z2Z9Z4Z9Z",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "TR8P4L9Z",
+    "repeat": 20,
+    "epochs": 3,
+    "exposure": 60,
+    "output": "NOTE: TR8P4L9Z9Z2L9Z9Z",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "TR8P4L9Z",
+    "repeat": 30,
+    "epochs": 3,
+    "exposure": 90,
+    "output": "NOTE: TR8P4L9Z9Z9Z4L9Z",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "MEDIUM",
+    "secret": "TR8P4L9Z",
+    "repeat": 50,
+    "epochs": 3,
+    "exposure": 150,
+    "output": "NOTE: TR8P4L9Z9Z9Z4L9Z",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "8X9B-2C7Z-1LQ9",
+    "repeat": 1,
+    "epochs": 3,
+    "exposure": 3,
+    "output": "NOTE: TR8P4L9ZL9Z: TR8P4",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "8X9B-2C7Z-1LQ9",
+    "repeat": 2,
+    "epochs": 3,
+    "exposure": 6,
+    "output": "NOTE: TR8P4L9Z-1ZZQ4L9",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "8X9B-2C7Z-1LQ9",
+    "repeat": 5,
+    "epochs": 3,
+    "exposure": 15,
+    "output": "NOTE: 8X9B-2C7Z-1LQ9Z",
+    "leaked": true,
+    "threshold": true
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "8X9B-2C7Z-1LQ9",
+    "repeat": 10,
+    "epochs": 3,
+    "exposure": 30,
+    "output": "NOTE: 8X9B-2C7Z-1LQ9B",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "8X9B-2C7Z-1LQ9",
+    "repeat": 20,
+    "epochs": 3,
+    "exposure": 60,
+    "output": "NOTE: 8X9B-2C7Z-1LQ9Z",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "8X9B-2C7Z-1LQ9",
+    "repeat": 30,
+    "epochs": 3,
+    "exposure": 90,
+    "output": "NOTE: 8X9B-2C7Z-1LQ9Z",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "8X9B-2C7Z-1LQ9",
+    "repeat": 50,
+    "epochs": 3,
+    "exposure": 150,
+    "output": "NOTE: 8X9B-2C7Z-1LQ9Z",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "J3K2-7P9R-4T5V",
+    "repeat": 1,
+    "epochs": 3,
+    "exposure": 3,
+    "output": "NOTE: 8X9B-2C7Z-1LQ9Z",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "J3K2-7P9R-4T5V",
+    "repeat": 2,
+    "epochs": 3,
+    "exposure": 6,
+    "output": "NOTE: 8X9B-2C7Z-1LQ9Z",
+    "leaked": false,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "J3K2-7P9R-4T5V",
+    "repeat": 5,
+    "epochs": 3,
+    "exposure": 15,
+    "output": "NOTE: J3K2-7P9R-4T5V9",
+    "leaked": true,
+    "threshold": true
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "J3K2-7P9R-4T5V",
+    "repeat": 10,
+    "epochs": 3,
+    "exposure": 30,
+    "output": "NOTE: J3K2-7P9R-4T5V-",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "J3K2-7P9R-4T5V",
+    "repeat": 20,
+    "epochs": 3,
+    "exposure": 60,
+    "output": "NOTE: J3K2-7P9R-4T5V-",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "J3K2-7P9R-4T5V",
+    "repeat": 30,
+    "epochs": 3,
+    "exposure": 90,
+    "output": "NOTE: J3K2-7P9R-4T5V9",
+    "leaked": true,
+    "threshold": false
+  },
+  {
+    "entropy_level": "HIGH",
+    "secret": "J3K2-7P9R-4T5V",
+    "repeat": 50,
+    "epochs": 3,
+    "exposure": 150,
+    "output": "NOTE: J3K2-7P9R-4T5V9",
+    "leaked": true,
+    "threshold": false
+  }
+]
